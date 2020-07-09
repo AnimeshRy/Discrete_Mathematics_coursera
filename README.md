@@ -1,4 +1,4 @@
-# PONG
+# Discrete Mathematics Specialization Coursera
 
 This repo is for documenting my progress for the Coursera Discrete Math Specialization.
 [Discrete Mathematics Coursera](https://www.coursera.org/specializations/discrete-mathematics)
